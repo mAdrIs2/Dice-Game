@@ -37,6 +37,10 @@ footer {
   font-family: 'Indie Flower', cursive;
 }
 
-.btns{
+.btns {
   margin-bottom: 5%;
+}
+
+.btn {
+  margin: 1rem 3rem;
 }
